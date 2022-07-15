@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 [![danpawlik's GitHub stats](https://github-readme-stats.vercel.app/api?username=danpawlik&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  [![danpawlik's GitHub stats](https://profile-counter.glitch.me/danpawlik/count.svg)](https://profile-counter.glitch.me/)
 -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/danpawlik/danpawlik/output/github-contribution-grid-snake.svg" />
+</p>
